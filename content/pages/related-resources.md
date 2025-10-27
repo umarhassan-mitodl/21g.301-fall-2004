@@ -2,8 +2,6 @@
 content_type: page
 description: Related resources are listed on this page
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -13,107 +11,107 @@ uid: 73312e29-6ad9-c115-9af8-7d7fa5ac4489
 
 ### LLARC (Language Learning and Resource Center)
 
-[Language Learning and Resource Center](http://mitgsl.mit.edu/)
+{{% resource_link "8d86038a-5353-44c6-8e3c-e0a92486fcee" "Language Learning and Resource Center" %}}
 
 ### MIT-France
 
-[MIT-France Program](https://misti.mit.edu/mit-france)
+{{% resource_link "a6c696bb-6d05-466a-b953-38acd963f06e" "MIT-France Program" %}}
 
 ### Club francophone du MIT
 
-[MIT Club francophone](http://web.mit.edu/francophone/www/index.html)
+{{% resource_link "69f82fe5-8961-42b0-8235-333d66d35a51" "MIT Club francophone" %}}
 
 ## On-line Tools for Learning
 
 ### Dictionnaires français-anglais
 
-[Dictionnaires français-anglais](http://dico.isc.cnrs.fr/dico_html/fr/dico_tr.html)
+{{% resource_link "1fb2decd-db7f-4ee0-8bba-6075b9e9e3fe" "Dictionnaires français-anglais" %}}
 
 ### Grammaire and Vocabulary
 
-[About French Language](http://french.about.com/)
+{{% resource_link "b15b15f2-9155-4c7d-9299-422e059935f7" "About French Language" %}}
 
-[Language Guide](http://www.languageguide.org/francais/)
+{{% resource_link "ad33b184-0c44-4143-8eb9-02d595c5d2bc" "Language Guide" %}}
 
-[Real French](https://web.archive.org/web/20060702060158/http://www.realfrench.net/fv/index.php#trav)
+{{% resource_link "affce771-253b-4819-b54b-6e3125855ff6" "Real French" %}}
 
-[French Tutorial](http://www.frenchtutorial.com/)
+{{% resource_link "aabd6f8d-a3cc-49ed-aa47-9953fa45ce44" "French Tutorial" %}}
 
-[Globegate](http://www.utm.edu/staff/globeg/gramm.shtml)
+{{% resource_link "13558cd0-4de9-4c19-a35e-df78e53cd581" "Globegate" %}}
 
-[Tex's French Grammar](http://www.laits.utexas.edu/tex/gr/)
+{{% resource_link "72aa0767-e75e-45e8-b276-f4990bdbcad6" "Tex's French Grammar" %}}
 
-[Free French Lessons](https://web.archive.org/web/20040718013838/http://www.france-pub.com/french/index.html)
+{{% resource_link "47fbc87e-754a-43af-95f8-8704933da973" "Free French Lessons" %}}
 
 ### Pronunciation
 
-[Pronunciation Guidelines](http://www.jump-gate.com/languages/french/french1.html)
+{{% resource_link "a6468a92-830a-445a-8bfc-98db704a6bc3" "Pronunciation Guidelines" %}}
 
 ### Conjugations
 
-[Conjuin(s) - Online French Verb Conjugator](http://www.tatsuto.com/conjuin/)
+{{% resource_link "cc0e94ba-e894-4e93-aafa-5329bdb79f92" "Conjuin(s) - Online French Verb Conjugator" %}}
 
 ## Web Sites Associated With Chapters
 
 ### Chapter 1: Premiers Contacts
 
-[Savoir-vivre](https://classycolibri.com/savoir-vivre-etiquette-et-bonnes-manieres/)
+{{% resource_link "b1554292-528f-463a-a887-93110c0b375c" "Savoir-vivre" %}}
 
-[Cafés de Paris](http://web.archive.org/web/20110101224434/http://paris.org/Cafes/)
+{{% resource_link "05f37539-6837-4971-8d35-142de8414c51" "Cafés de Paris" %}}
 
-[Les cafés philo en Ile de France](https://www.petitfute.com/r2-ile-de-france/c1169-s-amuser-sortir/c182-bar-cafe/c197-cafe-philo-litteraire/)
+{{% resource_link "13666132-3141-4c3e-ad61-02144ad6fdb2" "Les cafés philo en Ile de France" %}}
 
-[Le Procope](http://www.procope.com/)
+{{% resource_link "a1f74727-223f-4063-aea3-8ce5a740522a" "Le Procope" %}}
 
-[Université Laval](http://www.ulaval.ca/)
+{{% resource_link "24e9fa54-398f-4661-909e-afe838cde770" "Université Laval" %}}
 
 *Chapter* *2: On Rejoint La Communauté* *Francophone*
 
-[Carte du Monde francophone](https://web.archive.org/web/20070101054448/http://www.diplomatie.gouv.fr/fr/thematiques_830/francophonie-langue-francaise_1040/francophonie_3026/francais-dans-monde_11936/carte-du-monde-francophone_6513.html)
+{{% resource_link "ac4116fb-791f-4e35-9ae5-71d3c5a09db1" "Carte du Monde francophone" %}}
 
-[Images du Québec](https://www.quebec-cite.com/en)
+{{% resource_link "317a6070-c019-4091-9586-5ac956243bce" "Images du Québec" %}}
 
-[Tahar Ben-Jelloun](https://www.theparisreview.org/interviews/893/the-art-of-fiction-no-159-tahar-ben-jelloun)
+{{% resource_link "4014d87c-5d17-4aaf-9096-8c0a5484578e" "Tahar Ben-Jelloun" %}}
 
-[Léopold Senghor](http://www.britannica.com/biography/Leopold-Senghor)
+{{% resource_link "69854fe5-6d98-4357-852b-8818982af43b" "Léopold Senghor" %}}
 
-[Antonine Maillet](https://www.thecanadianencyclopedia.ca/en/article/antonine-maillet)
+{{% resource_link "3de817b1-7735-4710-963d-ec8185b8f772" "Antonine Maillet" %}}
 
-[Zinédine Zidane](https://www.biography.com/athlete/zinedine-zidane)
+{{% resource_link "7962bf3b-4b36-497f-98cb-83feb334fb0b" "Zinédine Zidane" %}}
 
 ### Chapter 3: Tour De France
 
-[Le provinces de France](http://www.tourisme.fr/)
+{{% resource_link "479212bf-7560-4f1f-918b-7ed2776ee7df" "Le provinces de France" %}}
 
-[Images des châteaux de la Loire](https://artsandculture.google.com/project/loire-castles)
+{{% resource_link "f370c6f9-2695-43a1-8011-6d3d2eabcbe3" "Images des châteaux de la Loire" %}}
 
-[Château de Blois](http://www.chateaudeblois.fr/)
+{{% resource_link "9d84e206-1088-419d-8e36-7f693ad9fa5c" "Château de Blois" %}}
 
 Les climats de la France
 
-[La météo](http://www.meteofrance.com/FR/mameteo/prevPays.jsp?LIEUID=FRANCE)
+{{% resource_link "2e8c205c-c973-42a2-9039-4d94f52141d2" "La météo" %}}
 
 Clickable Map of France
 
 ### Chapter 4: La Ville et Le Quartier
 
-[Le quartier latin](https://web.archive.org/web/20150524171650/http://www.insecula.com/musee/M0112.html)
+{{% resource_link "dfdb0ae5-419c-45fc-8d58-d2982a1adc52" "Le quartier latin" %}}
 
-[Le quartier de l'Opéra à Paris](https://web.archive.org/web/20150524032219/http://www.insecula.com/zone/Z0007337.html)
+{{% resource_link "f5508ed3-2f1e-458b-a356-dc5bbbc0ff88" "Le quartier de l'Opéra à Paris" %}}
 
 Les arrondissements de Paris
 
-[Un quartier de Narbonne et ses commerçants](http://www.voltaire-joffre.com/)
+{{% resource_link "cee3c936-90c8-4819-b59b-f9855b1d2d26" "Un quartier de Narbonne et ses commerçants" %}}
 
-[Le quartier Petit Champlain à Québec](http://web.archive.org/web/20070405212506/http://www.quartier-petit-champlain.qc.ca/)
+{{% resource_link "16056bc5-726a-41a5-9689-2e893cce865c" "Le quartier Petit Champlain à Québec" %}}
 
-[La Suisse](http://www.myswitzerland.com/map/?lang=fr)
+{{% resource_link "4ac82365-5d58-473e-8855-a2a2dbf87e08" "La Suisse" %}}
 
 Une montre suisse
 
-[Carcassonne](http://www.carcassonne.org/)
+{{% resource_link "f9d53e72-2e95-4983-a0b9-7d95354a0413" "Carcassonne" %}}
 
-[Les transports](http://www.cortland.edu/flteach/civ/transpor/transp.htm)
+{{% resource_link "cb8e3a3c-e4f1-4a8a-ae8e-4bf124245619" "Les transports" %}}
 
 ### Chapter 5: Des Gens De Toutes Sortes
 
@@ -123,40 +121,40 @@ Le Vietnam
 
 Sites historiques du Viêt-nam
 
-[Le cinéma vietnamien](https://culture360.asef.org/resources/le-cinema-vietnamien-vietnamese-cinema/)
+{{% resource_link "caca30a9-e6fe-40ac-9b95-58c285cd2ffa" "Le cinéma vietnamien" %}}
 
-[Les francofolies](http://www.francofolies.fr/)
+{{% resource_link "9441608a-559f-4454-a410-4fff45179218" "Les francofolies" %}}
 
-[La fête de la musique](http://fetedelamusique.culture.fr/)
+{{% resource_link "27ada55c-e4d1-4360-8735-4ae890203e8f" "La fête de la musique" %}}
 
 ### Chapter 6: Chez Soi
 
-[L'habitat](http://www.cortland.edu/flteach/civ/habitat/habita1.htm)
+{{% resource_link "d07126bb-1545-405b-9929-0dd64781371f" "L'habitat" %}}
 
-[L'habitat intérieur](http://www.cortland.edu/flteach/civ/habitat2/habita2.htm)
+{{% resource_link "f771d468-cd08-4b51-bc87-388669f52923" "L'habitat intérieur" %}}
 
-[Suburbs / Banlieue](http://en.wikipedia.org/wiki/Banlieue)
+{{% resource_link "1bbffc48-eb56-48ea-92b8-2900e3285e21" "Suburbs / Banlieue" %}}
 
-[Plans de maisons: à vous de choisir](http://www.ideesmaison.com/Construction/Plans-de-maisons/)
+{{% resource_link "fd0e8608-c2d0-4421-9cfb-bcb0b8398e22" "Plans de maisons: à vous de choisir" %}}
 
-[Visite de Liège](https://www.visitezliege.be/en/do-see)
+{{% resource_link "72d1a438-b20c-407e-9147-2e845d2b70ed" "Visite de Liège" %}}
 
-[Des immeubles typiques de Nantes](http://www.nantes44.com/urba_archi/faceoriginale/quai_fosse.htm)
+{{% resource_link "6a196978-03a4-42a1-b6b1-367be1920008" "Des immeubles typiques de Nantes" %}}
 
 ### Chapter 7: A Table
 
-[Le savoir-vivre à table](http://www.abritel.fr/info/guide/conseils/us-coutumes/savoir-vivre-table)
+{{% resource_link "01c96336-e918-4b2b-8551-9708f74a6f3f" "Le savoir-vivre à table" %}}
 
-[Les marchés en Martinique](http://www.zananas-martinique.com/martinique-fort-de-france/marches.htm)
+{{% resource_link "c1f91dc7-b01a-490b-a628-8b0b41d857f9" "Les marchés en Martinique" %}}
 
-[Les produits du supermarché Casino](http://www.casino.fr/)
+{{% resource_link "6f2d4668-d3cf-40da-bb1e-101d0a88602c" "Les produits du supermarché Casino" %}}
 
-[L'hyermarché Auchan](http://www.auchan.fr/)
+{{% resource_link "fedf8eba-f6b7-4309-9534-388b641a8026" "L'hyermarché Auchan" %}}
 
-[Les arts de la table](http://www.diplomatie.gouv.fr/en/)
+{{% resource_link "81cd2aa6-29ac-461a-b26c-ecde70fc61d8" "Les arts de la table" %}}
 
-[Les plats préférés des Français](http://www.tns-sofres.com/)
+{{% resource_link "10c607a9-117c-4666-b9c7-447fe9bfd20f" "Les plats préférés des Français" %}}
 
 Le Bénin
 
-[Portail du Gouvernement du Bénin](http://www.gouv.bj/#)
+{{% resource_link "44083d5e-ae65-47f7-9b03-8121e43fedf7" "Portail du Gouvernement du Bénin" %}}
