@@ -4,8 +4,6 @@ description: This resource contains the information regarding in class activitie
 file: /courses/21g-301-french-i-fall-2004/175c640d1ef1abd5fc6b1f012abcdd90_MIT21G_301F04_ch_pre_first.pdf
 file_size: 107691
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

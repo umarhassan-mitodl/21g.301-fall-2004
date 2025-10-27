@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -498,11 +496,11 @@ Dans le _Cahier d'activités_, faites: ex. 5-15, 5-16, 5-17 pp. 120-122.
   
 Sources supplémentaires et liens utiles:  
   
-[Le Viêt-nam](http://web.archive.org/web/20060516142949/http://www.atlasgeo.net/)  
+{{% resource_link "ed470766-d2f8-49f2-bb87-466d53e94907" "Le Viêt-nam" %}}  
   
-[Sites historiques du Viêt-nam](http://web.archive.org/web/20040607053916/http://perso.club-internet.fr/gilkergu/)  
+{{% resource_link "854aee8f-6889-43e0-bf87-6665afe3d535" "Sites historiques du Viêt-nam" %}}  
   
-[Le cinéma vietnamien](http://cinema.arte.tv/fr/search/site/vietnamien)
+{{% resource_link "5c7810b5-69e8-4c3f-923a-92331fa1e437" "Le cinéma vietnamien" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

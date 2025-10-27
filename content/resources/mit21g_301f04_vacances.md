@@ -4,8 +4,6 @@ description: This resource contains the information regarding in class activitie
 file: /courses/21g-301-french-i-fall-2004/9b9b1ccdd4db5ab94770f549675d8a9e_MIT21G_301F04_vacances.pdf
 file_size: 109012
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
